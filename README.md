@@ -31,8 +31,7 @@ Code language: Python (python)\
 CryptoClustering/\  
 ├─Crypto_Clustering.ipynb  
 ├─README.md  
-└─crypto_market_data.csv
-└─crypto_market_data.csv
+└─Resources/crypto_market_data.csv
 
 ## License   
 This project is licensed under Steve Vierling Programming, Ltd.   
