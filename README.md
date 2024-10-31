@@ -32,6 +32,7 @@ CryptoClustering/\
 ├─Crypto_Clustering.ipynb  
 ├─README.md  
 └─Resources
+   └─Resources
 
 ## License   
 This project is licensed under Steve Vierling Programming, Ltd.   
