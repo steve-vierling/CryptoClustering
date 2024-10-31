@@ -32,7 +32,7 @@ CryptoClustering/\
 ├─Crypto_Clustering.ipynb  
 ├─README.md  
 └─Resources
-   └─crypto_market_data.csv       
+   └─crypto_market_data.csv
 
 ## License   
 This project is licensed under Steve Vierling Programming, Ltd.   
